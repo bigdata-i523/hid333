@@ -2,44 +2,35 @@
 # Comments
 
 * Mind the ```quotes and do not forget them```
-* Remove all sections that you have not yet created a directory in github with so our automated scripts do not fail. Only add them if the 
 
 # Owner
-
-```
-owner:
-    hid: 230
-    name: 
-    url: 
-```
+    hid: 333
+    name: Anil Ravi
+    url: https://github.com/bigdata-i523/hid333
 
 # Paper 1
 
-```
-paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Anil Ravi
+   - Ashok Reddy Singam
    hid:
-   - 000
-   - 001
-   title: This is my paper about xyz
-   abstract: This paper showcases tis and that and the other
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
-```
-   
+   - 333
+   - 337
+   title: Big Data and Artificial Intelligence solutions for In Home, Community and Territory Security
+   abstract: Analyze audio&video data (captured continuously using voice&video sensors) and then provide analytics to homeowners/authorities/agencies as needed
+   url: tbd
+ 
 # Paper 2
 
-```
-paper2:
    author: 
-   - Gregor von Laszewski
+   - Anil Ravi
+   - Ashok Reddy Singam
    hid:
-   - 000
-   title: This is my paper about the other abc
-   abstract: This paper showcases tis and that and the other in regards to abc
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
-```
+   - 333
+   - 337
+   title: Nartural language processing (NLP) for speech analysis and voice recognition
+   abstract: Automatic speech recognition (ASR) and natural language processing (NLP) based intelligent system can be used in several human machine interface applications both in consumer and industrial sector. This paper describes the architecture, building blocks, performance and applications for such system that would use pre-developed ASR and NLP APIs.   
+   url: tbd   
 
 # Project 
 
