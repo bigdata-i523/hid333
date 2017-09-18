@@ -9,7 +9,6 @@
     url: https://github.com/bigdata-i523/hid333
 
 # Paper 1
-
    author: Anil Ravi, Ashok Reddy Singam
    hid: 333, 337
    title: Big Data and Artificial Intelligence solutions for In Home, Community and Territory Security
@@ -17,7 +16,6 @@
    url: tbd
  
 # Paper 2
-
    author: Anil Ravi, Ashok Reddy Singam
    hid: 333, 337
    title: Nartural language processing (NLP) for speech analysis and voice recognition
