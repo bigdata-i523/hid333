@@ -24,7 +24,7 @@ paper1:
             audio monitoring/recording, video and Audio analytics, alerting homeowners/authorities/agencies as needed.
    url: https://github.com/bigdata-i523/hid337/paper1/report.tex
    type: latex
-   status: in progress
+   status: 100% complete
    chapter: Security
 ```
  
@@ -41,7 +41,7 @@ paper2:
    abstract: Automatic speech recognition (ASR) and natural language processing (NLP) based intelligent system can be used in several human machine interface applications both in consumer and industrial sector. This paper describes the architecture, building blocks, performance and applications for such system that would use pre-developed ASR and NLP APIs.   
    url: https://github.com/bigdata-i523/hid333/paper2/paper2.pdf
    type: latex
-   status: Not started
+   status: In progress
  ```
  
  # Project 
@@ -57,6 +57,6 @@ project:
    abstract: future task
    url: https://github.com/bigdata-i523/hid333/project/report.pdf
    type: latex
-   status: not started
+   status: Not started
 ```
    
