@@ -16,7 +16,7 @@ paper1:
             architecture of an intelligent security system with video surveillance, 
             audio monitoring/recording, video and Audio analytics, alerting
             homeowners/authorities/agencies as needed.
-   url: https://github.com/bigdata-i523/hid337/paper1/report.tex
+   url: https://github.com/bigdata-i523/hid337/paper1/
    type: latex
    status: 100%
    chapter: Security
@@ -34,7 +34,7 @@ paper2:
        both in consumer and industrial sector. This paper describes the architecture,
        building blocks, performance and applications for such system that would use
        pre-developed ASR and NLP APIs.    
-   url: https://github.com/bigdata-i523/hid333/paper2/paper2.pdf
+   url: https://github.com/bigdata-i523/hid333/paper2/
    type: latex
    status: In progress
 project:
@@ -45,7 +45,7 @@ project:
        - 333
    title: future task
    abstract: future task
-   url: https://github.com/bigdata-i523/hid333/project/report.pdf
+   url: https://github.com/bigdata-i523/hid333/project/
    type: latex
    status: Not started
    
