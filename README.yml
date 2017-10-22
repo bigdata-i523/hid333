@@ -4,11 +4,11 @@ owner:
     url: https://github.com/bigdata-i523/hid333
 paper1:
    author:
-       - Anil Ravi
        - Ashok Reddy Singam
+       - Anil Ravi
    hid:
-       - 333
        - 337
+       - 333
    title: Big Data and Artificial Intelligence solutions for In Home, Community and Territory Security
    abstract: > 
             Smart Security systems equipped with Video and Audio sensors produce huge
@@ -22,11 +22,11 @@ paper1:
    chapter: Security
 paper2:
    author:
-       - Anil Ravi
        - Ashok Reddy Singam
+       - Anil Ravi
    hid:
-       - 333
        - 337
+       - 333
    title: Nartural language processing (NLP) for speech analysis and voice recognition
    abstract: >
        Automatic speech recognition (ASR) and natural language processing (NLP) based
