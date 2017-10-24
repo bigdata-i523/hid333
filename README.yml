@@ -3,6 +3,7 @@ owner:
     name: Anil Ravi
     url: https://github.com/bigdata-i523/hid333
 paper1:
+   duplicate: yes
    author:
        - Ashok Reddy Singam
        - Anil Ravi
