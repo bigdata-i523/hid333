@@ -40,10 +40,10 @@ paper2:
         several human machine interface applications both in consumer
         and industrial sector. This paper describes the architecture,
         building blocks, performance and applications for such system
-        that would use pre-developed ASR and NLP APIs.            
+        that would use pre-developed ASR and NLP APIs.
     type: latex
     url: https://github.com/bigdata-i523/hid337/paper2/report.pdf
-        status: 100%
+    status: 100%
 project:
     type: project
     author:
