@@ -33,17 +33,17 @@ paper2:
         - 337
         - 333
     title: >
-        Nartural language processing (NLP) for speech analysis and
-        voice recognition
+        Natural Language Processing (NLP) to Analyze Human Speech Data
     abstract: >
         Automatic speech recognition (ASR) and natural language
         processing (NLP) based intelligent system can be used in
         several human machine interface applications both in consumer
         and industrial sector. This paper describes the architecture,
         building blocks, performance and applications for such system
-        that would use pre-developed ASR and NLP APIs.
-    url: https://github.com/bigdata-i523/hid337/paper2/
-    status: 100%
+        that would use pre-developed ASR and NLP APIs.            
+    type: latex
+    url: https://github.com/bigdata-i523/hid337/paper2/report.pdf
+        status: 100%
 project:
     type: project
     author:
