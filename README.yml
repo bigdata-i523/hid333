@@ -42,8 +42,8 @@ paper2:
         and industrial sector. This paper describes the architecture,
         building blocks, performance and applications for such system
         that would use pre-developed ASR and NLP APIs.
-    url: https://github.com/bigdata-i523/hid333/paper2/
-    status: In progress
+    url: https://github.com/bigdata-i523/hid337/paper2/
+    status: 100%
 project:
     type: project
     author:
