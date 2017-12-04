@@ -54,26 +54,31 @@ project:
         - 333
         - 337
     title: >
-          IoT and Big Data Analytics for Equipment Predictive Health Management
+          IoT and Big Data Analytics for Equipment Predictive
+          Health Management
     abstract: >
-    Not monitoring and gaining insight in to the industrial equipment 
-    in-service operational behavior has been the biggest bottleneck so far, 
-    which can be mitigated by using the latest IoT technologies. 
-    The idea is to collect the critical operational parameter data such as 
-    vibration, temperature, and load current from industrial equipment 
-    (compressors, vacuum generators, pumps, valves etc.) and perform 
-    failure prediction analysis using machine learning classification 
-    algorithms (linear/logistic regression, SVM, KNN, and decision tree etc.,). 
-    The data will be collected from the field using wireless sensors 
-    (MQTT or CoAP protocols) and routed to cloud based AWS server via gateway 
-    (or edge computing device). The collected data will be analyzed and 
-    made available to all stake holders to take appropriate preventive actions 
-    via web/mobile applications. The whole concept will add the value to business 
-    by reducing the maintenance costs and increasing the operational efficiency. 
-    The key technologies will be used in this project are IoT sensors with 
-    MQTT/CoAP protocol, AWS IoT Module, Amazon ML, Java/J2EE, Python and 
-    Oracle or Amazon EMR database. Also, considered the data generation option 
-    (using scripts) based on the data characteristics to conceptualize the 
-    solution if real time sensor data is not available within the project time line.
-    url: https://github.com/bigdata-i523/hid333/project/
-    status: In Progress
+        Not monitoring and gaining insight in to the industrial
+        equipment in-service operational behavior has been the biggest
+        bottleneck so far, which can be mitigated by using the latest
+        IoT technologies.  The idea is to collect the critical
+        operational parameter data such as vibration, temperature, and
+        load current from industrial equipment (compressors, vacuum
+        generators, pumps, valves etc.) and perform failure prediction
+        analysis using machine learning classification algorithms
+        (linear/logistic regression, SVM, KNN, and decision tree
+        etc.,).  The data will be collected from the field using
+        wireless sensors (MQTT or CoAP protocols) and routed to cloud
+        based AWS server via gateway (or edge computing device). The
+        collected data will be analyzed and made available to all
+        stake holders to take appropriate preventive actions via
+        web/mobile applications. The whole concept will add the value
+        to business by reducing the maintenance costs and increasing
+        the operational efficiency.  The key technologies will be used
+        in this project are IoT sensors with MQTT/CoAP protocol, AWS
+        IoT Module, Amazon ML, Java/J2EE, Python and Oracle or Amazon
+        EMR database. Also, considered the data generation option
+        (using scripts) based on the data characteristics to
+        conceptualize the solution if real time sensor data is not
+        available within the project time line.  url:
+        https://github.com/bigdata-i523/hid333/project/ status: In
+        Progress
