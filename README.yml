@@ -49,7 +49,7 @@ project:
     abstract: >
        IoT and Big Data Analytics for Equipment Predictive Health
        Management (PHM)
-    chapter: Technology
+    chapter: Health
     author:
         - Ashok Reddy Singam
         - Anil Ravi
