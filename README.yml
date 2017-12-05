@@ -48,15 +48,14 @@ paper2:
 project:
     type: project
     author:
-        - Anil Ravi
         - Ashok Reddy Singam
+        - Anil Ravi
     hid:
-        - 333
         - 337
+        - 333
     title: >
           IoT and Big Data Analytics for Equipment Predictive
-          Health Management
-          type: latex
+          Health Management        
    url:
         https://github.com/bigdata-i523/hid337/project/reportpdf
         status: 100%
