@@ -43,20 +43,23 @@ paper2:
         building blocks, performance and applications for such system
         that would use pre-developed ASR and NLP APIs.
     type: latex
-    url: https://github.com/bigdata-i523/hid337/paper2/report.pdf
+    url: https://github.com/bigdata-i523/hid337/paper2/
     status: 100%
 project:
-    type: project
+    abstract: >
+       IoT and Big Data Analytics for Equipment Predictive Health
+       Management (PHM)
+    chapter: Technology
     author:
-        - Anil Ravi
         - Ashok Reddy Singam
+        - Anil Ravi
     hid:
+        - 337report.pdf
         - 333
-        - 337
+    status: Dec 04 17 100%
     title: >
           IoT and Big Data Analytics for Equipment Predictive
           Health Management
           type: latex
-    url:
-        https://github.com/bigdata-i523/hid337/project/reportpdf
-    status: 100%
+    url: https://github.com/bigdata-i523/hid337/project/
+    type: project
