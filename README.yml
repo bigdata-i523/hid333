@@ -4,7 +4,6 @@ owner:
     name: Anil Ravi
     url: https://github.com/bigdata-i523/hid333
 paper1:
-    duplicate: "yes"
     author:
         - Ashok Reddy Singam
         - Anil Ravi
@@ -12,39 +11,39 @@ paper1:
         - 337
         - 333
     title: >
-        Big Data and Artificial Intelligence solutions for In Home,
-        Community and Territory Security
+       Big Data and Artificial Intelligence solutions for In Home, Community
+       and Territory Security
     abstract: >
-        Smart Security systems equipped with Video and Audio sensors
-        produce huge amounts of unstructured data continuously. This
-        paper talks about highlevel architecture of an intelligent
-        security system with video surveillance, audio
-        monitoring/recording, video and Audio analytics, alerting
-        homeowners/authorities/agencies as needed.
-    url: https://github.com/bigdata-i523/hid337/paper1/
-    status: 100%
+        Smart Security systems equipped with Video and Audio sensors produce
+        huge amounts of unstructured data continuously. This paper talks
+        about highlevel architecture of an intelligent security system with
+        video surveillance, audio monitoring/recording, video and
+        Audio analytics, alerting homeowners/authorities/agencies as needed.
+    url: https://github.com/bigdata-i523/hid337/paper1/report.pdf
+    type: latex
+    status: Nov 01 17 100%
     chapter: Security
 paper2:
     review: Nov 6 2017
+    abstract: >
+        Automatic speech recognition (ASR) and natural language processing
+        (NLP) based intelligent system can be  used in several human machine
+        interface applications both in consumer and industrial sector.
+        This paper describes the architecture, building blocks, performance
+        and applications for such system that would use pre-developed ASR
+        and NLP APIs.
+    chapter: Technology
     author:
         - Ashok Reddy Singam
         - Anil Ravi
-    chapter: Technology
     hid:
         - 337
         - 333
+    status: Nov 06 17 100%
     title: >
-        Natural Language Processing (NLP) to Analyze Human Speech Data
-    abstract: >
-        Automatic speech recognition (ASR) and natural language
-        processing (NLP) based intelligent system can be used in
-        several human machine interface applications both in consumer
-        and industrial sector. This paper describes the architecture,
-        building blocks, performance and applications for such system
-        that would use pre-developed ASR and NLP APIs.
+      Natural Language Processing (NLP) to Analyze Human Speech Data
     type: latex
-    url: https://github.com/bigdata-i523/hid337/paper2/
-    status: 100%
+    url: https://github.com/bigdata-i523/hid337/paper2/report.pdf
 project:
     abstract: >
       Not monitoring and gaining insight in to the industrial equipment
