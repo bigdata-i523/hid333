@@ -4,6 +4,7 @@ owner:
     name: Anil Ravi
     url: https://github.com/bigdata-i523/hid333
 paper1:
+    duplicate: True
     author:
         - Ashok Reddy Singam
         - Anil Ravi
@@ -24,7 +25,7 @@ paper1:
     status: Nov 01 17 100%
     chapter: Security
 paper2:
-    exclude: True
+    duplicate: True
     review: Nov 6 2017
     abstract: >
         Automatic speech recognition (ASR) and natural language processing
@@ -46,6 +47,7 @@ paper2:
     type: latex
     url: https://github.com/bigdata-i523/hid337/paper2/report.pdf
 project:
+    duplicate: True
     abstract: >
         Not monitoring and gaining insight in to the industrial equipment
         in-service operational behavior has been the biggest bottleneck
