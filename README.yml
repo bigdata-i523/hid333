@@ -21,7 +21,6 @@ paper1:
         video surveillance, audio monitoring/recording, video and
         Audio analytics, alerting homeowners/authorities/agencies as needed.
     url: https://github.com/bigdata-i523/hid337/paper1/report.pdf
-    type: latex
     status: Nov 01 17 100%
     chapter: Security
 paper2:
@@ -44,7 +43,6 @@ paper2:
     status: Nov 06 17 100%
     title: >
       Natural Language Processing (NLP) to Analyze Human Speech Data
-    type: latex
     url: https://github.com/bigdata-i523/hid337/paper2/report.pdf
 project:
     duplicate: True
